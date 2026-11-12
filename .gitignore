@@ -1,0 +1,36 @@
+# Local/server secrets and config
+config.php
+bt-secret.php
+# Site-specific analytics tag (copy google-analytics.example.php to google-analytics.php)
+/google-analytics.php
+
+# Site counters are live server data; only the .htaccess guard is tracked.
+counters/*
+!counters/.htaccess
+bot.log
+error_log
+*.log
+
+# Temporary printable-plan PDFs (auto-deleted); only the .htaccess guard is tracked.
+pdf-temp/*
+!pdf-temp/.htaccess
+
+# Per-user files (plans, progress, settings; one JSON per user) are private runtime data.
+users/*
+!users/.htaccess
+!users/index.php
+
+# Private runtime logs
+logs/*
+!logs/.htaccess
+
+.DS_Store
+**/.DS_Store
+sync.ffs_lock
+.sync.ffs_db*
+
+# Editor / OS files
+Thumbs.db
+.idea/
+.vscode/
+*.swp

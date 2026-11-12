@@ -1,0 +1,720 @@
+{
+  "biblesByLanguage" : {
+    "தமிழ்" : {
+      "languageCode" : "ta",
+      "languageName" : "தமிழ்",
+      "bibles" : [{
+        "abbr" : "TZB1714",
+        "isDefault" : false,
+        "commonName" : "சீகன்பால்க் அஞ்சு வேத பொஷ்த்தகம் 1714 - Ziegenbalg Bible 1714",
+        "hide" : true
+      }, {
+        "abbr" : "TCB1973",
+        "isDefault" : false,
+        "commonName" : "கத்தோலிக்க பரிசுத்த வேதாகமம் 1973 - Tamil Catholic Holy Bible 1973",
+        "hide" : false
+      }, {
+        "abbr" : "TOV1986",
+        "isDefault" : false,
+        "commonName" : "பரிசுத்த வேதாகமம் 1986 - Tamil Holy Bible 1986 - Old Version - O.V",
+        "hide" : false
+      }, {
+        "abbr" : "THNGV",
+        "isDefault" : false,
+        "commonName" : "தேவனின் எபிரேயப் பெயர்கள் பதிப்பு - Hebrew Names OF God Version in Tamil",
+        "hide" : false
+      }, {
+        "abbr" : "TCL1995",
+        "isDefault" : false,
+        "commonName" : "திருவிவிலியம் - Thiruviviliam 1995",
+        "hide" : false
+      }, {
+        "abbr" : "TERV1998",
+        "isDefault" : false,
+        "commonName" : "பரிசுத்த பைபிள் ERV 1998",
+        "hide" : false
+      }, {
+        "abbr" : "TOV2017",
+        "isDefault" : true,
+        "commonName" : "பரிசுத்த வேதாகமம் 2017 - Tamil Holy Bible 2017 - Old Version - O.V",
+        "hide" : false
+      }, {
+        "abbr" : "TIRV2017",
+        "isDefault" : false,
+        "commonName" : "தமிழ் IRV 2017",
+        "hide" : false
+      }, {
+        "abbr" : "TIRV2019",
+        "isDefault" : false,
+        "commonName" : "தமிழ் IRV 2019",
+        "hide" : false
+      }, {
+        "abbr" : "TCVIN2020NT",
+        "isDefault" : false,
+        "commonName" : "தமிழ் இந்திய சமகால மொழிபெயர்ப்பு 2020 NT",
+        "hide" : false
+      }, {
+        "abbr" : "TCVIN2022",
+        "isDefault" : false,
+        "commonName" : "தமிழ் இந்திய சமகால மொழிபெயர்ப்பு 2022",
+        "hide" : false
+      }, {
+        "abbr" : "TCVSL2022NT",
+        "isDefault" : false,
+        "commonName" : "தமிழ் இலங்கை சமகால/இலகு தமிழ் மொழிபெயர்ப்பு 2022 NT",
+        "hide" : false
+      }]
+    },
+    "Interlinear" : {
+      "languageCode" : "IL",
+      "languageName" : "Interlinear",
+      "bibles" : [ {
+        "abbr" : "BIB2020+",
+        "isDefault" : false,
+        "commonName" : "Berean Interlinear Bible. Old and New Testament. 2016, 2020.",
+        "hide" : false
+      }, {
+        "abbr" : "HSB+",
+        "isDefault" : true,
+        "commonName" : "Hebrew Study Bible with Strong's Numbers & Interlinear",
+        "hide" : false
+      }, {
+        "abbr" : "HSB2+",
+        "isDefault" : false,
+        "commonName" : "Hebrew Study Bible with Strong's Numbers & Interlinear",
+        "hide" : false
+      } ]
+    },
+    "ಕನ್ನಡ" : {
+      "languageCode" : "kn",
+      "languageName" : "ಕನ್ನಡ",
+      "bibles" : [ {
+        "abbr" : "KNCL",
+        "isDefault" : false,
+        "commonName" : "Kannada Common Language",
+        "hide" : false
+      }, {
+        "abbr" : "KNJV",
+        "isDefault" : false,
+        "commonName" : "Kannada Jehova Version",
+        "hide" : false
+      } ]
+    },
+    "తెలుగు" : {
+      "languageCode" : "te",
+      "languageName" : "తెలుగు",
+      "bibles" : [ {
+        "abbr" : "teERV1997",
+        "isDefault" : false,
+        "commonName" : "పవిత్ర బైబిల్ - Telugu ERV 1997",
+        "hide" : false
+      }, {
+        "abbr" : "teOV2016",
+        "isDefault" : false,
+        "commonName" : "పరిశుద్ధ గ్రంథము - Telugu Old Version 2016",
+        "hide" : false
+      } ]
+    },
+    "മലയാളം" : {
+      "languageCode" : "ml",
+      "languageName" : "മലയാളം",
+      "bibles" : [ {
+        "abbr" : "MOV",
+        "isDefault" : false,
+        "commonName" : "Malayalam Old Version",
+        "hide" : false
+      } ]
+    },
+    "हिन्दी" : {
+      "languageCode" : "hi",
+      "languageName" : "हिन्दी",
+      "bibles" : [ {
+        "abbr" : "HOV2012",
+        "isDefault" : false,
+        "commonName" : "Hindi O.V. Re-Edited 2012",
+        "hide" : false
+      } ]
+    },
+    "Original" : {
+      "languageCode" : "Original",
+      "languageName" : "Original",
+      "bibles" : [ {
+        "abbr" : "Orig2013+",
+        "isDefault" : false,
+        "commonName" : "IHOT+ and ABPGR+ - Bible in original languages without vowels",
+        "hide" : false
+      }, {
+        "abbr" : "Orig2014+",
+        "isDefault" : false,
+        "commonName" : "HSB3+ and GNT5+ - Bible in original languages with morphology, Red letter edition",
+        "hide" : false
+      }, {
+        "abbr" : "OSHG2010+",
+        "isDefault" : false,
+        "commonName" : "Open Scriptures Hebrew Bible • The Greek New Testament: SBL Edition",
+        "hide" : false
+      } ]
+    },
+    "English" : {
+      "languageCode" : "en",
+      "languageName" : "English",
+      "bibles" : [ {
+        "abbr" : "WYC1395",
+        "isDefault" : false,
+        "commonName" : "Wycliffe Bible, 1395",
+        "hide" : false
+      }, {
+        "abbr" : "CVB1535",
+        "isDefault" : false,
+        "commonName" : "Coverdale Bible, 1535",
+        "hide" : false
+      }, {
+        "abbr" : "TRC1535",
+        "isDefault" : false,
+        "commonName" : "Tyndale Bible 1535",
+        "hide" : false
+      }, {
+        "abbr" : "GB1539",
+        "isDefault" : false,
+        "commonName" : "Great Bible, 1539",
+        "hide" : false
+      }, {
+        "abbr" : "BB1572",
+        "isDefault" : false,
+        "commonName" : "Bishops' Bible, 1572",
+        "hide" : false
+      }, {
+        "abbr" : "Geneva1587",
+        "isDefault" : false,
+        "commonName" : "Geneva Bible, 1587",
+        "hide" : false
+      }, {
+        "abbr" : "Geneva1599",
+        "isDefault" : false,
+        "commonName" : "Geneva Bible, 1599",
+        "hide" : false
+      }, {
+        "abbr" : "DRB1610",
+        "isDefault" : false,
+        "commonName" : "Douay Rheims Bible",
+        "hide" : false
+      }, {
+        "abbr" : "KJV1611",
+        "isDefault" : false,
+        "commonName" : "King James Version 1611",
+        "hide" : false
+      }, {
+        "abbr" : "DRC1752",
+        "isDefault" : false,
+        "commonName" : "Douay-Rheims Bible, Challoner Revision, 1752",
+        "hide" : false
+      }, {
+        "abbr" : "JWNT1755",
+        "isDefault" : false,
+        "commonName" : "John Wesley's New Testament, 1755",
+        "hide" : false
+      }, {
+        "abbr" : "KJV1769+",
+        "isDefault" : false,
+        "commonName" : "King James Version (Oxford) 1769",
+        "hide" : false
+      }, {
+        "abbr" : "KJV1769",
+        "isDefault" : false,
+        "commonName" : "King James Version (Oxford) 1769",
+        "hide" : false
+      }, {
+        "abbr" : "Thomson1808",
+        "isDefault" : false,
+        "commonName" : "Thomson LXX & NT, 1808",
+        "hide" : false
+      }, {
+        "abbr" : "WBT1833",
+        "isDefault" : false,
+        "commonName" : "Webster's Bible Translation, 1833",
+        "hide" : false
+      }, {
+        "abbr" : "PESH1849",
+        "isDefault" : false,
+        "commonName" : "Peshitta Etheridge Translation, 1849",
+        "hide" : false
+      }, {
+        "abbr" : "KJV1850+",
+        "isDefault" : true,
+        "commonName" : "King James Version with Strong's Numbers",
+        "hide" : true
+      }, {
+        "abbr" : "LXXe1851",
+        "isDefault" : false,
+        "commonName" : "English version of the Septuagint Bible, 1851",
+        "hide" : false
+      }, {
+        "abbr" : "RV1885",
+        "isDefault" : false,
+        "commonName" : "Revised Version, 1885",
+        "hide" : false
+      }, {
+        "abbr" : "DBY1890+",
+        "isDefault" : false,
+        "commonName" : "The Darby Bible, 1890",
+        "hide" : false
+      }, {
+        "abbr" : "RV1895",
+        "isDefault" : false,
+        "commonName" : "Revised Version with Apocrypha, 1895",
+        "hide" : false
+      }, {
+        "abbr" : "WB1895",
+        "isDefault" : false,
+        "commonName" : "Welcome Bible 1895",
+        "hide" : false
+      }, {
+        "abbr" : "YLT1898",
+        "isDefault" : false,
+        "commonName" : "Young's Literal Translation 3rd Revision, 1898",
+        "hide" : false
+      }, {
+        "abbr" : "KJPCE1900+",
+        "isDefault" : false,
+        "commonName" : "King James Bible 1611: Pure Cambridge Edition, 1900",
+        "hide" : false
+      }, {
+        "abbr" : "ASV1901+",
+        "isDefault" : false,
+        "commonName" : "American Standard Version 1901",
+        "hide" : false
+      }, {
+        "abbr" : "LBP1933",
+        "isDefault" : false,
+        "commonName" : "Aramaic Of The Peshitta: Lamsa, 1933 - LBP",
+        "hide" : false
+      }, {
+        "abbr" : "RNKJV1934",
+        "isDefault" : false,
+        "commonName" : "Restored Names King James Version, 1934",
+        "hide" : false
+      }, {
+        "abbr" : "MKJV1962",
+        "isDefault" : false,
+        "commonName" : "Modern King James Version of the Holy Bible 1962",
+        "hide" : false
+      }, {
+        "abbr" : "RSV1971",
+        "isDefault" : false,
+        "commonName" : "Revised Standard Version, 1971",
+        "hide" : false
+      }, {
+        "abbr" : "AMP1965",
+        "isDefault" : false,
+        "commonName" : "Amplified Bible, 1965",
+        "hide" : false
+      }, {
+        "abbr" : "BBE1965",
+        "isDefault" : false,
+        "commonName" : "Bible In Basic English, 1965",
+        "hide" : false
+      }, {
+        "abbr" : "kj21-1994",
+        "isDefault" : false,
+        "commonName" : "21st Century KJV (1994)",
+        "hide" : true
+      }, {
+        "abbr" : "KJCNT1998",
+        "isDefault" : false,
+        "commonName" : "King James Clarified NT 1998",
+        "hide" : false
+      }, {
+        "abbr" : "NASB1995+",
+        "isDefault" : false,
+        "commonName" : "New American Standard Bible, 1995",
+        "hide" : true
+      }, {
+        "abbr" : "NKJV1982",
+        "isDefault" : false,
+        "commonName" : "New King James Version, 1982",
+        "hide" : true
+      }, {
+        "abbr" : "AKJV1999+",
+        "isDefault" : false,
+        "commonName" : "American King James Version 1999",
+        "hide" : false
+      }, {
+        "abbr" : "KJV2000",
+        "isDefault" : false,
+        "commonName" : "King James Version 2000",
+        "hide" : false
+      }, {
+        "abbr" : "RKJNT2000",
+        "isDefault" : false,
+        "commonName" : "Revised King James New Testament, 2000",
+        "hide" : false
+      }, {
+        "abbr" : "UKJV2000",
+        "isDefault" : false,
+        "commonName" : "Updated King James Version 2000",
+        "hide" : false
+      }, {
+        "abbr" : "ESV2001",
+        "isDefault" : false,
+        "commonName" : "English Standard Version 2001",
+        "hide" : true
+      }, {
+        "abbr" : "MSG2002",
+        "isDefault" : false,
+        "commonName" : "The Message Bible 2002",
+        "hide" : true
+      }, {
+        "abbr" : "RcV2003",
+        "isDefault" : false,
+        "commonName" : "Holy Bible Recovery Version, 2003",
+        "hide" : false
+      }, {
+        "abbr" : "cKJV+",
+        "isDefault" : false,
+        "commonName" : "Crossword Project KJV 2003",
+        "hide" : false
+      }, {
+        "abbr" : "KJ3-2005",
+        "isDefault" : false,
+        "commonName" : "King James 3 Version 2005",
+        "hide" : true
+      }, {
+        "abbr" : "ERV2006",
+        "isDefault" : false,
+        "commonName" : "Easy-to-Read Version, 2006",
+        "hide" : false
+      }, {
+        "abbr" : "NLT2007",
+        "isDefault" : false,
+        "commonName" : "New Living Translation, 2007",
+        "hide" : true
+      }, {
+        "abbr" : "NET2007",
+        "isDefault" : false,
+        "commonName" : "New English Translation, 2007",
+        "hide" : true
+      }, {
+        "abbr" : "KJVA2010",
+        "isDefault" : false,
+        "commonName" : "King James Version with Apocrypha, American Edition 2010",
+        "hide" : false
+      }, {
+        "abbr" : "NIV2011",
+        "isDefault" : false,
+        "commonName" : "New International Version, 2011",
+        "hide" : true
+      }, {
+        "abbr" : "ISV2011",
+        "isDefault" : false,
+        "commonName" : "International Standard Version 2011",
+        "hide" : true
+      }, {
+        "abbr" : "LEB2012",
+        "isDefault" : false,
+        "commonName" : "Lexham English Bible, 2012",
+        "hide" : false
+      }, {
+        "abbr" : "LXX2012",
+        "isDefault" : false,
+        "commonName" : "Septuagint in American English, 2012",
+        "hide" : false
+      }, {
+        "abbr" : "t4t2014",
+        "isDefault" : false,
+        "commonName" : "Translation for Translators 2014",
+        "hide" : false
+      }, {
+        "abbr" : "WYC2014",
+        "isDefault" : false,
+        "commonName" : "Wycliffe Bible, 2014",
+        "hide" : false
+      }, {
+        "abbr" : "AMP2015",
+        "isDefault" : false,
+        "commonName" : "Amplified Bible, 2015",
+        "hide" : true
+      }, {
+        "abbr" : "NLT2015",
+        "isDefault" : false,
+        "commonName" : "New Living Translation, 2015",
+        "hide" : true
+      }, {
+        "abbr" : "MSG2018",
+        "isDefault" : false,
+        "commonName" : "The Message Bible 2018",
+        "hide" : true
+      }, {
+        "abbr" : "NCB2019",
+        "isDefault" : false,
+        "commonName" : "New Catholic Bible 2019",
+        "hide" : false
+      }, {
+        "abbr" : "BKJVNT",
+        "isDefault" : false,
+        "commonName" : "Breakthrough KJV 2020",
+        "hide" : true
+      }, {
+        "abbr" : "NASB2020",
+        "isDefault" : false,
+        "commonName" : "New American Standard Bible, 2020",
+        "hide" : true
+      }, {
+        "abbr" : "WEB2020+",
+        "isDefault" : false,
+        "commonName" : "World English Bible, 2020",
+        "hide" : false
+      }, {
+        "abbr" : "NRSVue2021",
+        "isDefault" : false,
+        "commonName" : "New Revised Standard Version Updated Edition 2021",
+        "hide" : false
+      }, {
+        "abbr" : "ULT2024",
+        "isDefault" : false,
+        "commonName" : "unfoldingWord Literal Text, ULT 2024",
+        "hide" : false
+      }, {
+        "abbr" : "UST2024",
+        "isDefault" : false,
+        "commonName" : "unfoldingWord® Simplified Text, UST 2024",
+        "hide" : false
+      }, {
+        "abbr" : "HKJV+",
+        "isDefault" : false,
+        "commonName" : "Hebraic King James Version with embedded Strong's Numbers",
+        "hide" : false
+      } ]
+    },
+    "Hebrew" : {
+      "languageCode" : "iw",
+      "languageName" : "Hebrew",
+      "bibles" : [ {
+        "abbr" : "HAC",
+        "isDefault" : false,
+        "commonName" : "Hebrew Tanah Aleppo Codex",
+        "hide" : false
+      }, {
+        "abbr" : "HSB4",
+        "isDefault" : false,
+        "commonName" : "HSB4 Hebrew Bible",
+        "hide" : false
+      }, {
+        "abbr" : "MHB",
+        "isDefault" : false,
+        "commonName" : "MHB Hebrew Bible",
+        "hide" : false
+      }, {
+        "abbr" : "WLCv",
+        "isDefault" : false,
+        "commonName" : "WLCv Hebrew Bible",
+        "hide" : false
+      } ]
+    },
+    "Greek" : {
+      "languageCode" : "grc",
+      "languageName" : "Greek",
+      "bibles" : [ {
+        "abbr" : "CTST1550",
+        "isDefault" : false,
+        "commonName" : "Stephanus (ST) 1550",
+        "hide" : false
+      }, {
+        "abbr" : "TR1624",
+        "isDefault" : false,
+        "commonName" : "Textus Receptus 1624 Elzevir",
+        "hide" : false
+      }, {
+        "abbr" : "WHNU1881+",
+        "isDefault" : false,
+        "commonName" : "1881 Westcott and Hort Greek New Testament (with NA27/UBS4 text variants and embedded Strong's numbers)",
+        "hide" : false
+      }, {
+        "abbr" : "CTWH1885",
+        "isDefault" : false,
+        "commonName" : "Wescott and Hort (WH) 1885",
+        "hide" : false
+      }, {
+        "abbr" : "NA28",
+        "isDefault" : false,
+        "commonName" : "Novum Testamentum Graece, 28th Revised Edition. 2012",
+        "hide" : false
+      }, {
+        "abbr" : "CTKJTR2016",
+        "isDefault" : false,
+        "commonName" : "2016 King James Textus Receptus (KJTR)",
+        "hide" : false
+      }, {
+        "abbr" : "LXXBr",
+        "isDefault" : false,
+        "commonName" : "Brenton Greek Septuagint - μετάφραση των εβδομήκοντα",
+        "hide" : false
+      }, {
+        "abbr" : "UBS5",
+        "isDefault" : false,
+        "commonName" : "UBS5 - Novum Testamentum Graece",
+        "hide" : false
+      } ]
+    },
+    "Latin" : {
+      "languageCode" : "la",
+      "languageName" : "Latin",
+      "bibles" : [ {
+        "abbr" : "CVg2018",
+        "isDefault" : false,
+        "commonName" : "Biblia Sacra juxta Vulgatam Clementinam",
+        "hide" : false
+      } ]
+    },
+    "Marathi" : {
+      "languageCode" : "mr",
+      "languageName" : "Marathi",
+      "bibles" : [ {
+        "abbr" : "mrRV2015",
+        "isDefault" : false,
+        "commonName" : "पवित्र शास्त्र - Marathi R.V. Re-edited 2015",
+        "hide" : false
+      } ]
+    },
+    "Bengali" : {
+      "languageCode" : "bn",
+      "languageName" : "Bengali",
+      "bibles" : [ {
+        "abbr" : "bnOV2016",
+        "isDefault" : false,
+        "commonName" : "পবিত্র বাইবেল - Bengali Old Version Bible",
+        "hide" : false
+      } ]
+    },
+    "Gujarati" : {
+      "languageCode" : "gu",
+      "languageName" : "Gujarati",
+      "bibles" : [ {
+        "abbr" : "guOV2016",
+        "isDefault" : false,
+        "commonName" : "પવિત્ર બાઇબલ - Gujarati Old Version (Reference Bible)",
+        "hide" : false
+      } ]
+    },
+    "Odia" : {
+      "languageCode" : "or",
+      "languageName" : "Odia",
+      "bibles" : [ {
+        "abbr" : "orOV2014",
+        "isDefault" : false,
+        "commonName" : "ପବିତ୍ର ବାଇବଲ - Odia Old Version Re-edited 2014",
+        "hide" : false
+      } ]
+    },
+    "Punjabi" : {
+      "languageCode" : "pa",
+      "languageName" : "Punjabi",
+      "bibles" : [ {
+        "abbr" : "paOV2016",
+        "isDefault" : false,
+        "commonName" : "ਪਵਿੱਤਰ ਬਾਈਬਲ - Punjabi Old Version 2016",
+        "hide" : false
+      } ]
+    },
+    "Manipuri" : {
+      "languageCode" : "mni",
+      "languageName" : "Manipuri",
+      "bibles" : [ {
+        "abbr" : "mniRNT2022",
+        "isDefault" : false,
+        "commonName" : "Anouba Warepnaba (Roman Script) - Meitei New Testament 2022",
+        "hide" : false
+      } ]
+    },
+    "Nepali" : {
+      "languageCode" : "ne",
+      "languageName" : "Nepali",
+      "bibles" : [ {
+        "abbr" : "neNRV2012",
+        "isDefault" : false,
+        "commonName" : "Nepali New Revised Version, 2012",
+        "hide" : false
+      } ]
+    },
+    "Sanskrit" : {
+      "languageCode" : "sa",
+      "languageName" : "Sanskrit",
+      "bibles" : [ {
+        "abbr" : "saNT2015",
+        "isDefault" : false,
+        "commonName" : "Sanskrit New Testament 2015",
+        "hide" : false
+      } ]
+    },
+    "Awadhi" : {
+      "languageCode" : "awa",
+      "languageName" : "Awadhi",
+      "bibles" : [ {
+        "abbr" : "awaERV2005",
+        "isDefault" : false,
+        "commonName" : "पवित्तर बाइबिल",
+        "hide" : false
+      } ]
+    },
+    "Maithili" : {
+      "languageCode" : "mai",
+      "languageName" : "Maithili",
+      "bibles" : [ {
+        "abbr" : "maiNT",
+        "isDefault" : false,
+        "commonName" : "Jivən Səndesh - Maithili New Testament",
+        "hide" : false
+      } ]
+    },
+    "Malay" : {
+      "languageCode" : "ms",
+      "languageName" : "Malay",
+      "bibles" : [ {
+        "abbr" : "msAB1996",
+        "isDefault" : false,
+        "commonName" : "Today's Malay Version – Alkitab Berita Baik - Malay — Bahasa Melayu",
+        "hide" : false
+      } ]
+    },
+    "Sinhala" : {
+      "languageCode" : "si",
+      "languageName" : "Sinhala",
+      "bibles" : [ {
+        "abbr" : "siROV",
+        "isDefault" : false,
+        "commonName" : "සිංහල - Sinhala Revised Old Version",
+        "hide" : false
+      } ]
+    },
+    "Urdu" : {
+      "languageCode" : "ur",
+      "languageName" : "Urdu",
+      "bibles" : [ {
+        "abbr" : "urDGV2010",
+        "isDefault" : false,
+        "commonName" : "किताब-ए मुक़द्दस - Urdu Devanagari Geo Version 2010",
+        "hide" : false
+      }, {
+        "abbr" : "urGV2010",
+        "isDefault" : false,
+        "commonName" : "اردو جیو ورژن Urdu Geo Version 2010",
+        "hide" : false
+      }, {
+        "abbr" : "urRGV2017",
+        "isDefault" : false,
+        "commonName" : "Roman Urdu Geo Version Bible 2017",
+        "hide" : false
+      }, {
+        "abbr" : "urRV2010",
+        "isDefault" : false,
+        "commonName" : "Revised Urdu Bible 2010",
+        "hide" : false
+      } ]
+    }
+  },
+  "metadata" : {
+    "totalLanguages" : 23,
+    "totalBibles" : 118,
+    "lastUpdated" : "2025-10-16",
+    "supportedLanguages" : [ "Interlinear", "Original", "தமிழ்", "ಕನ್ನಡ", "తెలుగు", "മലയാളം", "हिन्दी", "English", "Hebrew", "Greek", "Latin", "Bengali", "Gujarati", "Marathi", "Nepali", "Awadhi", "Malay", "Punjabi", "Sinhala", "Urdu" ]
+  }
+}

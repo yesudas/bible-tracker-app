@@ -1,0 +1,16 @@
+<?php
+// POST (no body) -> sweeps PDFs from before today; fire-and-forget backstop called when "Create PDF" is clicked.
+header('Content-Type: application/json; charset=utf-8');
+header('Cache-Control: no-store');
+header('X-Content-Type-Options: nosniff');
+
+require_once __DIR__ . '/../includes/pdf-temp-store.php';
+
+if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+    http_response_code(405);
+    echo json_encode(['error' => 'Method not allowed']);
+    exit;
+}
+
+btPdfTempCleanupBeforeToday();
+echo json_encode(['ok' => true]);

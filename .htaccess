@@ -1,0 +1,4 @@
+# Never serve secrets, logs or server-side config over HTTP (this app also keeps them out of git).
+<FilesMatch "^(config\.php|bt-secret\.php|error_log|bot\.log|\.sync\.ffs_db.*|.*\.log|.*\.psd)$">
+    Require all denied
+</FilesMatch>
